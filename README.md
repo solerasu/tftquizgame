@@ -1,7 +1,7 @@
 # tftquizgame
 TFT Quiz Application to RIOT for the approval
 
-<p>TFT Quiz is typical quiz game in TeamFight Tactics style. It allows people to remember items, combinations from the original TFT game.</p>
+<p>TFT Quiz is a typical quiz game in TeamFight Tactics style. It allows people to remember items, combinations from the original TFT game.</p>
 <p>There are 3 modes: Training (2 attempts), Timer (300 seconds and infinite attempts), Competitive (1 attempt and 6 seconds to answer) </p>
 <p>The best results are implemented using the Google Play Leaderboards for Timer and Competitive modes separately.</p>
 <b>I did not use APIs.</b>
