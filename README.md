@@ -7,6 +7,6 @@ TFT Quiz Application to RIOT for the approval
 <b>I did not use APIs.</b>
 <p>I used in the application pictures of: TFT items, Little Legends, and also several sounds and button sprites from TFT mobile version.</p>
 <p>I want to add that people like to play this game, this application received nice feedback.</p>
-<p><b>I attach screenshots, also you can watch video trailer here:  </b></p>
+<p><b>I attach screenshots, also you can watch video trailer here: https://youtu.be/r08BUZvTSCc </b></p>
 <p>Please check my application. Waiting for the approval.
 Best wishes,  Yevhenii</p>
